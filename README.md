@@ -55,11 +55,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-### 🔥 Top Languages
-<img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api/top-langs/?username=shounakroy23062&layout=compact&langs_count=8" />
-
-### ⭐ Github Profile Stats  
-<img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=shounakroy23062&show_icons=true&include_all_commits=true&count_private=true" />
+## 🚀 Skill Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Intermediate-blue" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-lightgrey" />
+  <img src="https://img.shields.io/badge/Python-Advanced-green" />
+  <img src="https://img.shields.io/badge/Java-Beginner-orange" />
+</p>
 
