@@ -2,22 +2,17 @@
 <h3 align="center">I'm learning Machine Learning to build my skills and work on interesting projects 😊</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shounakroy23062&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://streak-stats.demolab.com?user=shounakroy23062&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shounakroy23062&theme=algolia&margin-w=8&margin-h=8" alt="trophies" />
-</p>
 
----
-
-### 🌱 I’m currently learning  
+### 🌱 I’m currently learning:  
 **Machine Learning**
 
-### 👨‍💻 All of my projects  
+### 👨‍💻 All of my projects:  
 🔗 **https://github.com/ShounakRoy23062?tab=repositories**
 
-### 📫 Contact Me  
+### 📫 Contact Me:  
 **shounakofficial02@gmail.com**
 
 ---
