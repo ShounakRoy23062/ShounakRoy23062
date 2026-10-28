@@ -97,32 +97,45 @@ A deep-learning project using chest X-ray images to classify tuberculosis, pneum
 
 ## 📈 GitHub Analytics
 
+<!-- GitHub Stats -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShounakRoy23062&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShounakRoy23062&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Most-used languages"/>
+  <img height="170"
+       src="https://github-stats-extended.vercel.app/api?username=ShounakRoy23062&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0"
+       alt="GitHub Statistics"/>
+
+  <img height="170"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShounakRoy23062&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0"
+       alt="Most-used languages"/>
 </div>
 
+<br/>
+
+<!-- GitHub Streak: Keep your existing working card -->
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ShounakRoy23062&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+  <img width="70%"
+       src="https://streak-stats.demolab.com?user=ShounakRoy23062&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+       alt="GitHub contribution streak"/>
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShounakRoy23062&bg_color=0D1117&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-</div>
+<br/>
 
----
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<!-- Contribution Snake -->
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShounakRoy23062/ShounakRoy23062/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShounakRoy23062/ShounakRoy23062/output/github-snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ShounakRoy23062/ShounakRoy23062/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ShounakRoy23062/ShounakRoy23062/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ShounakRoy23062/ShounakRoy23062/output/github-snake.svg"/>
+    <img width="95%"
+         src="https://raw.githubusercontent.com/ShounakRoy23062/ShounakRoy23062/output/github-snake.svg"
+         alt="GitHub contribution snake"/>
   </picture>
-</p>
+</div>
 
----
+
 
 ## 🌐 Let's Connect
 
